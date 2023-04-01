@@ -1,1 +1,1 @@
-# Source code for Roblox Kaizo
+# Roblox undertale engine open source
